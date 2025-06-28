@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Click2Run", "HotkeyHelpLauncher\Click2Run.csproj", "{18FCF0F4-2710-4C43-B77A-46BC46807BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FCF0F4-2710-4C43-B77A-46BC46807BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FCF0F4-2710-4C43-B77A-46BC46807BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FCF0F4-2710-4C43-B77A-46BC46807BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FCF0F4-2710-4C43-B77A-46BC46807BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90352976-E315-46DC-A2E4-14FE74541B8D}
+	EndGlobalSection
+EndGlobal
